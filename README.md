@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErenEraslan
 - 👀 I’m interested in hackathons, coding and orienteering.   
-- 🌱 I’m currently learning Computer Science at Bilkent University
+- 🌱 I’m a freshman at Bilkent University, Computer Science department 
 - 📫 How to reach me - eraslanerenberk@gmail.com
 
 <!---
