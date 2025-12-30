@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErenEraslan
-- 🌱 I’m a junior at Bilkent University, Computer Science department 
+- 🌱 I’m a senior at Bilkent University, Computer Science department 
 - 📫 How to reach me - eraslanerenberk@gmail.com
 
 <!---
